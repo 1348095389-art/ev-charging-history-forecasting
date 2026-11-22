@@ -186,3 +186,10 @@ Reproduction without any GPU: raw data (`evfc_raw_data.zip`), steps 02 to 04, pr
 ## Licence
 
 Code: MIT (see `LICENSE`). Data: see the licences of the two source datasets above.
+
+## Citation
+
+If you use this code or data in your work, please cite both the manuscript and this archived software:
+
+* **Software (Zenodo):** [10.5281/zenodo.24431971](https://doi.org/10.5281/zenodo.24431971) (v1.0.0)
+* **All versions:** [10.5281/zenodo.24431970](https://doi.org/10.5281/zenodo.24431970)
